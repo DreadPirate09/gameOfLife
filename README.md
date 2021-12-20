@@ -1,1 +1,1 @@
-# gameOfLife
+# THE GAME OF LIFE
